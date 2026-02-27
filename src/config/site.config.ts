@@ -4,10 +4,10 @@
  */
 
 export const siteConfig = {
-    name: 'Alexander Mitchell',
-    title: 'Alexander Mitchell - Corporate & Business Law',
+    name: 'Collins Karanu',
+    title: 'Collins Karanu - Corporate & Business Law',
     description: 'Delivering strategic legal counsel with integrity, precision, and unwavering commitment to your business success.',
-    author: 'Alexander Mitchell',
+    author: 'Collins Karanu',
     tagline: 'Corporate & Business Law',
 
     /** Office hours information */
