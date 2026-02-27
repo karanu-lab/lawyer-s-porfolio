@@ -47,7 +47,7 @@ const HeroSection = () => {
                     </p>
 
                     <h1 className="font-serif text-4xl md:text-6xl lg:text-7xl font-semibold mb-6 animate-fade-in-up opacity-0">
-                        Alexander <span className="gold-accent">Mitchell</span>
+                        Collins <span className="gold-accent">Karanu</span>
                     </h1>
 
                     <p className="text-lg md:text-xl text-primary-foreground/80 max-w-2xl mx-auto mb-10 animate-fade-in-up opacity-0 animation-delay-200">
@@ -77,7 +77,7 @@ const HeroSection = () => {
                             className="bg-white/10 text-white border-white/30 hover:bg-white/20 hover:border-white/50 backdrop-blur-sm transition-all font-medium px-8 gap-2"
                             asChild
                         >
-                            <a href="/documents/Alexander-Mitchell-CV.pdf" download>
+                            <a href="/documents/Collins-Karanu-CV.pdf" download>
                                 <Download size={20} />
                                 Download CV
                             </a>
