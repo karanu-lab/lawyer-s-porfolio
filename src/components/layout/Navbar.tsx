@@ -32,7 +32,7 @@ const Navbar = () => {
                     className={`font-serif text-xl font-semibold transition-colors ${isScrolled ? 'text-foreground' : 'text-primary-foreground'
                         }`}
                 >
-                    Alexander <span className="gold-accent">Mitchell</span>
+                    {siteConfig.siteName}
                 </a>
 
                 {/* Desktop Navigation */}
