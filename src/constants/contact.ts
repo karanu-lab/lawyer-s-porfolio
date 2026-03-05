@@ -30,6 +30,6 @@ export const CONTACT_INFO: ContactInfo[] = [
     {
         icon: MapPin,
         label: 'Office Hours',
-        value: '8:30am-7:00pm',
+        value: 'Monday - Friday: 9:00 AM - 6:00 PM\nEvening and weekend appointments available upon request',
     },
 ];
