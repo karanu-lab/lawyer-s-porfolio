@@ -12,7 +12,7 @@ export const TESTIMONIALS: Testimonial[] = [
     {
         quote:
             "Alexander's expertise in corporate law was instrumental in our successful merger. His attention to detail and strategic thinking saved us both time and money.",
-        author: 'Sarah Chen',
+        author: 'Amanda Wang',
         title: 'CEO, TechVenture Inc.',
         image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&q=80',
     },
