@@ -27,4 +27,9 @@ export const CONTACT_INFO: ContactInfo[] = [
         label: 'Office',
         value: 'Moi Avenue,Mtihani House\nParklands,NBO 10100',
     },
+    {
+        icon: MapPin,
+        label: 'Office Hours',
+        value: '8:30am-7:00pm',
+    },
 ];
