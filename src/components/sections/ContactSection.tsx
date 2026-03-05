@@ -101,7 +101,7 @@ const ContactSection = () => {
                         {/* Office Hours */}
                         <div className="pt-6 border-t border-border">
                             <p className="text-sm text-muted-foreground mb-4">Office Hours</p>
-                            <p className="text-foreground">{siteConfig.officeHours.regular}</p>
+                            <p className="text-foreground">Monday - Friday: 8:30 AM - 6:30 PM</p>
                             <p className="text-muted-foreground text-sm mt-1">
                                 {siteConfig.officeHours.additional}
                             </p>
